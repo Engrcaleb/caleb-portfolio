@@ -1,0 +1,29 @@
+node_modules
+dist
+.env
+
+# Windows user profile files — only the project files should be tracked
+.aws/
+.cursor/
+.kiro/
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+learnflow-project/
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+.bash_history
+.gitconfig
